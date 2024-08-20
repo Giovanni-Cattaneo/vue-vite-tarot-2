@@ -38,7 +38,7 @@ export default {
 
     retry() {
       this.state.cards.forEach(card => { // take every card and reset the img for retro and position
-        card.retro = 'retro.png';
+        card.retro = 'retro-3.jpg';
         card.up = false;
       });
       this.shuffle(this.state.cards); // shuffle again the deck

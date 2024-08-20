@@ -6,7 +6,7 @@ export const state = reactive({
     cards: [
         {
             name: "Il Matto",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "matto.png",
             up: true,
             upValue: 1,
@@ -16,7 +16,7 @@ export const state = reactive({
         },
         {
             name: "Il Mago",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "mago.png",
             up: true,
             upValue: 1,
@@ -26,7 +26,7 @@ export const state = reactive({
         },
         {
             name: "La Papessa",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "papessa.png",
             up: true,
             upValue: 1,
@@ -36,7 +36,7 @@ export const state = reactive({
         },
         {
             name: "L'Imperatrice",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "imperatrice.png",
             up: true,
             upValue: 1,
@@ -46,7 +46,7 @@ export const state = reactive({
         },
         {
             name: "L'Imperatore",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "imperatore.png",
             up: true,
             upValue: 0,
@@ -56,7 +56,7 @@ export const state = reactive({
         },
         {
             name: "Il Papa",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "papa.png",
             up: true,
             upValue: 1,
@@ -66,7 +66,7 @@ export const state = reactive({
         },
         {
             name: "Gli Amanti",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "amanti.png",
             up: true,
             upValue: 1,
@@ -76,7 +76,7 @@ export const state = reactive({
         },
         {
             name: "Il Carro",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "carro.png",
             up: true,
             upValue: 1,
@@ -86,7 +86,7 @@ export const state = reactive({
         },
         {
             name: "La Giustizia",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "giustizia.png",
             up: true,
             upValue: 1,
@@ -96,7 +96,7 @@ export const state = reactive({
         },
         {
             name: "L'Eremita",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "eremita.png",
             up: true,
             upValue: 0,
@@ -106,7 +106,7 @@ export const state = reactive({
         },
         {
             name: "La Fortuna",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "fortuna.png",
             up: true,
             upValue: 1,
@@ -116,7 +116,7 @@ export const state = reactive({
         },
         {
             name: "La Forza",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "forza.png",
             up: true,
             upValue: 1,
@@ -126,7 +126,7 @@ export const state = reactive({
         },
         {
             name: "L'Appeso",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "appeso.png",
             up: true,
             upValue: -1,
@@ -136,7 +136,7 @@ export const state = reactive({
         },
         {
             name: "La Morte",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "morte.png",
             up: true,
             upValue: 0,
@@ -146,7 +146,7 @@ export const state = reactive({
         },
         {
             name: "La Temperanza",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "temperanza.png",
             up: true,
             upValue: 1,
@@ -156,7 +156,7 @@ export const state = reactive({
         },
         {
             name: "Il Diavolo",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "diavolo.png",
             up: true,
             upValue: -1,
@@ -166,7 +166,7 @@ export const state = reactive({
         },
         {
             name: "La Torre",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "torre.png",
             up: true,
             upValue: -1,
@@ -176,7 +176,7 @@ export const state = reactive({
         },
         {
             name: "Le Stelle",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "stelle.png",
             up: true,
             upValue: 1,
@@ -186,7 +186,7 @@ export const state = reactive({
         },
         {
             name: "La Luna",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "luna.png",
             up: true,
             upValue: 0,
@@ -196,7 +196,7 @@ export const state = reactive({
         },
         {
             name: "Il Sole",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "sole.png",
             up: true,
             upValue: 1,
@@ -206,7 +206,7 @@ export const state = reactive({
         },
         {
             name: "Il Mondo",
-            retro: "retro.png",
+            retro: "retro-3.jpg",
             img: "mondo.png",
             up: true,
             upValue: 1,

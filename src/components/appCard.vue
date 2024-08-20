@@ -60,6 +60,7 @@ export default {
     margin: auto;
     will-change: filter;
     transition: filter 300ms;
+    border-radius: 1rem;
 
 }
 
