@@ -16,6 +16,7 @@
 body {
   background-image: url(../public/reader.webp);
   background-repeat: no-repeat;
+  overflow-y: hidden;
 }
 
 a {

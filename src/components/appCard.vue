@@ -50,7 +50,7 @@ export default {
 
 <style scoped>
 .card_img {
-    margin-top: 35rem;
+    margin-top: 32.7rem;
 }
 
 .img {
